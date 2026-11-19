@@ -4,6 +4,8 @@ version = "0.2.0"
 description = "Use a Zwift Ride (or Zwift Click) as a full controller for MyWhoosh on macOS"
 readme = "README.md"
 requires-python = ">=3.11"
+license = "MIT"
+license-files = ["LICENSE"]
 classifiers = ["Operating System :: MacOS :: MacOS X"]
 dependencies = [
     "bleak>=1.0",

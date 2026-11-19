@@ -163,3 +163,12 @@ packaged into a Python client by
 detail by [BikeControl](https://github.com/OpenBikeControl/bikecontrol) (Ride
 button map, left-hood relay, firmware lock, MyWhoosh Link format). zwhoosh is
 an independent implementation; no code is copied from those projects.
+
+## License and disclaimer
+
+[MIT](LICENSE).
+
+zwhoosh is an independent hobby project. It is not affiliated with, endorsed
+by or supported by Zwift, Inc. or MyWhoosh. "Zwift", "Zwift Ride", "Zwift
+Click" and "MyWhoosh" are trademarks of their respective owners and are used
+here only to describe what zwhoosh works with. Use it at your own risk.
